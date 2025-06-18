@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Gud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\LevelBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Level1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Gud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Gud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\LevelBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Shop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3439D9AA-F1DC-4A59-A58C-6F4780BEA5E2}|Gud\\Gud.vcxproj|solutionrelative:Gud\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelBase.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.cpp",
+              "RelativeDocumentMoniker": "Gud\\LevelBase.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.cpp",
+              "RelativeToolTip": "Gud\\LevelBase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T16:06:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.h",
+              "RelativeDocumentMoniker": "Gud\\Text.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.h",
+              "RelativeToolTip": "Gud\\Text.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:34:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Gud\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.cpp",
+              "RelativeToolTip": "Gud\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:32:03.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LevelBase.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.h",
+              "RelativeDocumentMoniker": "Gud\\LevelBase.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\LevelBase.h",
+              "RelativeToolTip": "Gud\\LevelBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:30:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shop.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.cpp",
+              "RelativeDocumentMoniker": "Gud\\Shop.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.cpp",
+              "RelativeToolTip": "Gud\\Shop.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:30:25.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Shop.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.h",
+              "RelativeDocumentMoniker": "Gud\\Shop.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Shop.h",
+              "RelativeToolTip": "Gud\\Shop.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:30:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.cpp",
+              "RelativeDocumentMoniker": "Gud\\Player.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.cpp",
+              "RelativeToolTip": "Gud\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:29:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level1.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.h",
+              "RelativeDocumentMoniker": "Gud\\Level1.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.h",
+              "RelativeToolTip": "Gud\\Level1.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:28:23.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level3.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.cpp",
+              "RelativeDocumentMoniker": "Gud\\Level3.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.cpp",
+              "RelativeToolTip": "Gud\\Level3.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T16:01:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level2.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.cpp",
+              "RelativeDocumentMoniker": "Gud\\Level2.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.cpp",
+              "RelativeToolTip": "Gud\\Level2.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T15:59:31.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.cpp",
+              "RelativeDocumentMoniker": "Gud\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.cpp*",
+              "RelativeToolTip": "Gud\\GameManager.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:32:04.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Text.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.cpp",
+              "RelativeDocumentMoniker": "Gud\\Text.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Text.cpp",
+              "RelativeToolTip": "Gud\\Text.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:35:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.cpp",
+              "RelativeDocumentMoniker": "Gud\\Level1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level1.cpp",
+              "RelativeToolTip": "Gud\\Level1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:40:26.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level2.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.h",
+              "RelativeDocumentMoniker": "Gud\\Level2.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level2.h",
+              "RelativeToolTip": "Gud\\Level2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T15:59:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level3.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.h",
+              "RelativeDocumentMoniker": "Gud\\Level3.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Level3.h",
+              "RelativeToolTip": "Gud\\Level3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T16:01:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.h",
+              "RelativeDocumentMoniker": "Gud\\Enemy.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Enemy.h",
+              "RelativeToolTip": "Gud\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:29:48.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.h",
+              "RelativeDocumentMoniker": "Gud\\Player.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Player.h",
+              "RelativeToolTip": "Gud\\Player.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:29:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.h",
+              "RelativeDocumentMoniker": "Gud\\GameManager.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\GameManager.h",
+              "RelativeToolTip": "Gud\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T12:27:22.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gud.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Gud.cpp",
+              "RelativeDocumentMoniker": "Gud\\Gud.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Gud\\Gud\\Gud.cpp",
+              "RelativeToolTip": "Gud\\Gud.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-18T12:25:31.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
